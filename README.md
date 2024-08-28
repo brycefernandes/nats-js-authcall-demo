@@ -1,5 +1,5 @@
-# nats-js-authcall-demo
-Demo project showcasing the authcall features of nats js
+# nats-js-authcallout-demo
+Demo project showcasing the authcallout features of nats js
 The frontend is pretty much the exact same as the original demo with the exception of SSO login.
 [Original demo with with GO on github](https://github.com/synadia-io/rethink_connectivity/tree/main/19-auth-callout)
 <br />
@@ -9,6 +9,7 @@ You can extend this for your custom workflow.
 <br />
 ## Install
 This is your typical install
+<br />
 npm install in both the folders where package.json is there
 <br />
 `npm install`
