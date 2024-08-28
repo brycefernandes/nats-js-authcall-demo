@@ -1,7 +1,11 @@
 # nats-js-authcall-demo
 Demo project showcasing the authcall features of nats js
-The frontend is pretty much the exact same as the original demo
+The frontend is pretty much the exact same as the original demo with the exception of SSO login.
 [Original demo with with GO](https://github.com/synadia-io/rethink_connectivity/tree/main/19-auth-callout)
+
+In this demo we are generating random users using an api an authenticating that.
+No google client ID required either. Just install and run.
+You can extend this for your custom workflow.
 
 ## Install
 This is your typical install
